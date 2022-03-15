@@ -1,0 +1,9 @@
+C:\Users\leoli\source\repos\oliskoMidii\oliskoMidii\bin\Debug\oliskoMidii.exe.config
+C:\Users\leoli\source\repos\oliskoMidii\oliskoMidii\bin\Debug\oliskoMidii.exe
+C:\Users\leoli\source\repos\oliskoMidii\oliskoMidii\bin\Debug\oliskoMidii.pdb
+C:\Users\leoli\source\repos\oliskoMidii\oliskoMidii\obj\Debug\oliskoMidii.csprojAssemblyReference.cache
+C:\Users\leoli\source\repos\oliskoMidii\oliskoMidii\obj\Debug\oliskoMidii.Form1.resources
+C:\Users\leoli\source\repos\oliskoMidii\oliskoMidii\obj\Debug\oliskoMidii.Properties.Resources.resources
+C:\Users\leoli\source\repos\oliskoMidii\oliskoMidii\obj\Debug\oliskoMidii.csproj.GenerateResource.cache
+C:\Users\leoli\source\repos\oliskoMidii\oliskoMidii\obj\Debug\oliskoMidii.exe
+C:\Users\leoli\source\repos\oliskoMidii\oliskoMidii\obj\Debug\oliskoMidii.pdb
